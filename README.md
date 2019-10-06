@@ -6,3 +6,6 @@
 
 ### 2019_09_30: Titanic_02 (ongoing)
 [Kaggle Titanic Transcription](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+
+### 2019_10_06: House Price_01 (ongoing)
+[Kaggle HousePrice Transcription](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
